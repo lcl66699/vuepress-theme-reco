@@ -60,9 +60,9 @@ export default [
     avator: "https://blog.latteandcat.cn/head.png"
   },
   {
-    thumbnail: "https://numb.run/homeIndex.jpg",
-    link: "https://numb.run/",
-    avator: "https://numb.run/homepage.jpg"
+    thumbnail: "https://blog.iucoder.com/homeIndex.jpg",
+    link: "https://blog.iucoder.com/",
+    avator: "https://blog.iucoder.com/homepage.jpg"
   },
   {
     thumbnail: "https://www.dreamai.world/assets/homeview.jpg",
